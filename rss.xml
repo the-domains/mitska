@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mitska]]></title>
-        <description><![CDATA[Mitska]]></description>
+        <title><![CDATA[The Wonderfully Dynamic, Painted Lady]]></title>
+        <description><![CDATA[The Wonderfully Dynamic, Painted Lady]]></description>
         <link>https://thegrid.ai/mitska/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 20:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 20:06:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mitska/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Illustrious Mitska]]></title>
-            <description><![CDATA[<article><h1>The Illustrious Mitska</h1><h2>The wonderfully dynamic, painted lady</h2><p>Confessions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb27b133ac8f16ce334835717c93d2629b4ef8de.jpg"></article>]]></description>
+            <title><![CDATA[The Wonderfully Dynamic, Painted Lady]]></title>
+            <description><![CDATA[<article><h1>The Wonderfully Dynamic, Painted Lady</h1><p>Confessionsshot by: Brooklyn</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb27b133ac8f16ce334835717c93d2629b4ef8de.jpg"></article>]]></description>
             <link>https://thegrid.ai/mitska/the-illustrious-mitska/index.html</link>
             <guid isPermaLink="false">9434d191-cec4-41a5-b9d4-66f2adec3beb</guid>
-            <pubDate>Fri, 15 Jan 2016 20:01:53 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 20:06:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
