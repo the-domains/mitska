@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T20:06:10.226Z'
+datePublished: '2016-01-15T20:06:10.266Z'
 dateModified: '2016-01-15T20:06:09.857Z'
 title: 'The Wonderfully Dynamic, Painted Lady'
 author: []
