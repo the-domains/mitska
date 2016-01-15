@@ -1,0 +1,28 @@
+name: Mitska
+favicon: null
+layout_spectrum: 0.3919016416184604
+typography_spectrum: 0.05874594277702272
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.30227804998867214
+  lightness: 0.5168935672845691
+  saturation: 0.24228450586088002
+  rhythmicContrast: 0.30926382704637945
+purpose: []
