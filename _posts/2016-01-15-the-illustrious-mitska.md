@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:55:30.699Z'
-dateModified: '2016-01-15T21:55:29.379Z'
+datePublished: '2016-01-15T21:58:23.182Z'
+dateModified: '2016-01-15T21:58:20.688Z'
 title: The Illustrious Mitska
 author: []
 sourcePath: _posts/2016-01-15-the-illustrious-mitska.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-illustrious-mitska/index.html
-_type: Article
+_type: Blurb
 
 ---
 # ![Confessions](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62371495-7ff5-49c8-9f4e-38e0ba2e55b0.jpg)
