@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3125
   brandStrength: 0.75
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Mitska
 favicon: null
+name: Mitska
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.45489
-layout_spectrum: 0.9983888
+layout_spectrum: 0.08109559
