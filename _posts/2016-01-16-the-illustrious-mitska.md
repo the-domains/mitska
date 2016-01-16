@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T16:53:31.397Z'
-dateModified: '2016-01-16T16:53:29.504Z'
+datePublished: '2016-01-16T16:55:56.343Z'
+dateModified: '2016-01-16T16:55:53.751Z'
 title: Confessions
 author: []
 sourcePath: _posts/2016-01-16-the-illustrious-mitska.md
@@ -24,6 +24,6 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c08282e-406a-48b7-a1db-63dde92e94b4.jpg)
 
-# Confessions
+## Confessions
 
 _shot by Alissa _Brunelli
