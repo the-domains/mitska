@@ -1,5 +1,8 @@
+name: Mitska
+favicon: null
+layout_spectrum: 0.20284
+typography_spectrum: 0.45489
 title: The Illustrious Mitska
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5408163
-  brandStrength: 0.75
-  lightness: 0.3464017
   brandColors:
     - '#000000'
     - '#fff0f6'
     - '#b40367'
     - '#706fa1'
     - '#e36795'
+  brandStrength: 0.75
+  lightness: 0.3464017
+  saturation: 0.5408163
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Mitska
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.45489
-layout_spectrum: 0.08109559
+purpose: []
