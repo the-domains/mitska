@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T17:01:48.279Z'
-dateModified: '2016-01-16T17:01:45.418Z'
+datePublished: '2016-01-16T17:01:48.345Z'
+dateModified: '2016-01-16T17:01:48.167Z'
 title: The Illustrious Mitska
 author: []
 sourcePath: _posts/2016-01-16-the-illustrious-mitska.md
