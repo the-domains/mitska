@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T17:01:27.299Z'
+datePublished: '2016-01-16T17:01:27.417Z'
 dateModified: '2016-01-16T17:01:27.191Z'
 title: Confessions
 author: []
