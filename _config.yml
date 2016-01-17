@@ -1,6 +1,6 @@
 name: Mitska
 favicon: null
-layout_spectrum: 0.19903
+layout_spectrum: 0.38532
 typography_spectrum: 0.45489
 title: The Illustrious Mitska
 collections:
@@ -34,8 +34,8 @@ color:
     - '#b40367'
     - '#706fa1'
     - '#e36795'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.3125
-  saturation: 0.1875
+  saturation: 0.25
   rhythmicContrast: 0.5
 purpose: []
