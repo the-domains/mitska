@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-16T20:52:21.426Z'
-dateModified: '2016-01-16T20:51:57.834Z'
+datePublished: '2016-01-16T21:52:16.844Z'
+dateModified: '2016-01-16T21:52:13.363Z'
 title: Confessions
 author: []
 sourcePath: _posts/2016-01-16-the-illustrious-mitska.md
