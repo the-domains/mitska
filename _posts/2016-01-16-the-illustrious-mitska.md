@@ -2,14 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T19:44:53.771Z'
-dateModified: '2016-01-16T19:44:53.516Z'
-title: Confessions
+datePublished: '2016-01-16T19:46:00.162Z'
+dateModified: '2016-01-16T19:45:39.315Z'
+title: The Illustrious Mitska
 author: []
 sourcePath: _posts/2016-01-16-the-illustrious-mitska.md
 published: true
@@ -22,8 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c08282e-406a-48b7-a1db-63dde92e94b4.jpg)
-
-## Confessions
-
-_shot by Alissa __Brunelli_
+# The Illustrious Mitska
